@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Maurohata
+- 👀 I’m a theoretical physicist, interested in numerically solving PDEs 
+- 🌱 I’m currently learning MATLAB
+- 📫 maurogil1@hotmail.it
